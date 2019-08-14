@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Skumar_IndiaRegions",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Magento provides country and regions and cities as dropdown option in addresses. India Regions extension extends this feature by adding updated states of India.",
+    "authors": [
+    {
+        "name": "Shyam Kumar",
+        "email": "kumar.30.shyam@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
